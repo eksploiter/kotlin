@@ -1,2 +1,1 @@
-## Kotlin
-Studying Kotlin Programming
+### Studying Kotlin Programming
