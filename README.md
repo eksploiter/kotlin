@@ -3,8 +3,11 @@
 ### Introduction
 저는 기존에 **Java**를 사용한 안드로이드 개발을 공부해왔으며, 이제는 **Kotlin**을 기반으로 한 안드로이드 개발을 학습하고 있습니다.
 Kotlin은 더 간결하고 현대적인 문법을 제공하며, 구글의 공식적인 지원을 받고 있어 앞으로의 개발에서 중요한 역할을 할 것입니다.
+<br>
+<br>
 
-### Java vs Kotlin in Android Development
+## Java vs Kotlin in Android Development
+<br>
 
 #### 1. 문법적 차이
 - **Java**: 객체 지향 프로그래밍 언어로, 코드가 비교적 장황하게 작성될 수 있습니다. 널 포인터 예외(NullPointerException)와 같은 문제가 자주 발생할 수 있습니다.
@@ -24,6 +27,7 @@ Kotlin은 더 간결하고 현대적인 문법을 제공하며, 구글의 공식
 
 #### 5. 안드로이드 개발의 미래
 - 구글은 Kotlin을 공식적으로 지원하며, 최신 API 및 툴킷(Jetpack, Compose)에서 Kotlin 우선 지원을 하고 있습니다.
+<br>
 
-### Conclusion
+## Conclusion
 자바로 시작한 안드로이드 개발 여정을 이제 코틀린으로 확장해 나가며, 더 효율적이고 안전한 코드를 작성하는 데 집중할 계획입니다.
