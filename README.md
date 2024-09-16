@@ -7,7 +7,6 @@ Kotlin은 더 간결하고 현대적인 문법을 제공하며, 구글의 공식
 <br>
 
 ## Java vs Kotlin in Android Development
-<br>
 
 #### 1. 문법적 차이
 - **Java**: 객체 지향 프로그래밍 언어로, 코드가 비교적 장황하게 작성될 수 있습니다. 널 포인터 예외(NullPointerException)와 같은 문제가 자주 발생할 수 있습니다.
