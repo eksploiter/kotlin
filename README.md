@@ -1,4 +1,4 @@
-### Studying Kotlin Programming
+### Studying Kotlin Programming 
 
 ## Introduction
 저는 기존에 **Java**를 사용한 안드로이드 개발을 공부해왔으며, 이제는 **Kotlin**을 기반으로 한 안드로이드 개발을 학습하고 있습니다.
