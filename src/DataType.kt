@@ -4,6 +4,7 @@
 fun main(args: Array<String>) {
     // Byte
     var mByte : Byte = 100
+    // 잘 안쓴다.
 
     // Short
     var mShort : Short = 1000
