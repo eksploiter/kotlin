@@ -13,5 +13,4 @@ fun main(args: Array<String>) {
         println("current number $num")
         num++
     } while (num < 5)
-
 }
