@@ -1,3 +1,5 @@
+// 변수와 상수
+
 fun main(args: Array<String>) {
     // 변수와 상수
     val pi : Double = 3.14 // 상수를 지정, pi 라는 이름, double 타입, 값은 3.14할당
