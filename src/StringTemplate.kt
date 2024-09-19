@@ -1,3 +1,4 @@
+// 스트링 템플릿
 // String template
 
 fun main(args: Array<String>) {
