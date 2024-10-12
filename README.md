@@ -5,6 +5,8 @@
 Kotlin은 더 간결하고 현대적인 문법을 제공하며, 구글의 공식적인 지원을 받고 있어 앞으로의 개발에서 중요한 역할을 할 것입니다.
 <br><br>
 
+---
+
 ## Java vs Kotlin in Android Development
 
 #### 1. 문법적 차이
